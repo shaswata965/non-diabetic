@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2850px" height="2776px" viewBox="0 0 2850 2776" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>light-bolt</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-4" transform="translate(-398.000000, -16296.000000)" fill-rule="nonzero">
+            <g id="light-bolt" transform="translate(398.000000, 16296.000000)">
+                <path d="M2373.33438,949.503138 C2373.33438,425.105598 1948.30293,0 1423.99686,0 C899.690792,0 474.665621,425.105598 474.665621,949.503138 C212.518861,949.503138 0,1162.05908 0,1424.25157 C0,1686.44406 212.518861,1899 474.665621,1899 L2373.33438,1899 C2635.48114,1899 2848,1686.44406 2848,1424.25157 C2848,1162.05908 2635.48114,949.503138 2373.33438,949.503138 Z" id="Shape" fill="#E8F4FC"></path>
+                <path d="M2375.00209,949.503138 C2375.00209,425.105598 1949.67311,0 1425,0 L1425,1899 L2375.00209,1899 C2637.33237,1899 2850,1686.44406 2850,1424.25157 C2850,1162.05908 2637.33237,949.503138 2375.00209,949.503138 Z" id="Shape" fill="#D1E5F5"></path>
+                <polygon id="Shape" fill="#F8E99B" points="1607.62563 956 855 2085.19722 1242.37437 2085.19722 1242.37437 2776 1995 1646.79022 1607.62563 1646.79022"></polygon>
+                <polygon id="Shape" fill="#F5DC60" points="1607.62776 1643.79495 1607.62776 953 1425 1227.00219 1425 2499 1995 1643.79495"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
